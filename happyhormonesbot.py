@@ -9,7 +9,7 @@ from aiogram.filters import Command
 from aiogram.utils import executor
 
 API_TOKEN = "7925232029:AAG-FLpXxN9jT4c-vbDAg_B8RzmPEkvyc30"
-WEBHOOK_HOST = "https://your-vercel-app.vercel.app"
+WEBHOOK_HOST = "https://happyhormonesbot.vercel.app"
 WEBHOOK_PATH = f"/{API_TOKEN}"
 WEBHOOK_URL = f"{WEBHOOK_HOST}{WEBHOOK_PATH}"
 
